@@ -3,6 +3,7 @@
 
 ## Fully functical scripts written in Pyhton using mathematical search functions for the prime factorization of a number, and implement Graph data structure.  
 
+## Basic Overview
 This project shows the implementation of function to achieve a few simple tasks. Every part of this project is sampe 
 code which shows how to do the following:
 
