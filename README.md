@@ -8,8 +8,8 @@ code which shows how to do the following:
 
 * Create a function, given and input ‘n’, a positive integer between 1 and Int64.MaxValue, that returns a list of prime numbers between 1 and n.
 * Implement a Graph data structure and create a function to find the shortest path between two nodes. 
-          - Implement a breadth first search.
-          - Implement a depth first search.
+* Implement a breadth first search.
+* Implement a depth first search.
 * Implement a function that searches for the prime factorization of a number, ‘n’, between 1 and Int64.MaxValue. 
 
 ...
