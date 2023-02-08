@@ -1,5 +1,5 @@
 ![](https://github.com/tinasheadm/RainCity_Housing/blob/main/Bannner.png)
-# RainCity_Housing Evaluation Project 
+# RainCity Housing Evaluation Project 
 
 ## Fully functical scripts written in Pyhton using mathematical search functions for the prime factorization of a number, and implement Graph data structure.  
 
