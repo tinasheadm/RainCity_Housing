@@ -5,10 +5,15 @@
 This project shows the implementation of function to achieve a few simple tasks. Every part of this project is sampe 
 code which shows how to do the following:
 
+### question 1
 * Create a function, given and input ‘n’, a positive integer between 1 and Int64.MaxValue, that returns a list of prime numbers between 1 and n.
+
+### question 2 - 4
 * Implement a Graph data structure and create a function to find the shortest path between two nodes. 
 * Implement a breadth first search.
 * Implement a depth first search.
+
+### question 5
 * Implement a function that searches for the prime factorization of a number, ‘n’, between 1 and Int64.MaxValue. 
 
 ...
