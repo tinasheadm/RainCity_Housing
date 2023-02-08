@@ -1,7 +1,6 @@
 # RainCity_Housing Evaluation Project 
 
-## Fully functical scripts written in Pyhton using mathematical search functions for the prime factorization of a number, 
-and implement Graph data structure.  
+## Fully functical scripts written in Pyhton using mathematical search functions for the prime factorization of a number, and implement Graph data structure.  
 
 This project shows the implementation of function to achieve a few simple tasks. Every part of this project is sampe 
 code which shows how to do the following:
